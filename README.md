@@ -1,6 +1,6 @@
 # Object-Store-Project
 
-In this project, students will explore the complexities of building communication channels as well as remote services by implementing their own Object Storage service. 
+In this project, students will explore the complexities of building communication channels as well as remote services by implementing their own remote object storage service. 
 Read the full project description in ProjectDescription.pdf.
 
 ### For Instructors
